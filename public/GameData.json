@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battle Ground: PUBG",
+    "coverPhoto": "https://i.ibb.co.com/nqfVc5kD/game-img1.png",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.ibb.co.com/ycNQL9BK/game-img2.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Experience the thrill of war in Call of Duty Mobile with epic multiplayer battles and battle royale modes.",
+    "ratings": "4.7",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/kg26vFgv/game-img3.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Build your village, train troops, and battle millions of players worldwide in this strategy-based mobile game.",
+    "ratings": "4.6",
+    "developer": "Supercell"
+  },
+  {
+    "id": "4",
+    "title": "Free Fire Max",
+    "coverPhoto": "https://i.ibb.co.com/PzfCFtCp/game-img4.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/",
+    "description": "Free Fire Max offers stunning visuals and intense 10-minute battle royale matches designed for mobile gamers.",
+    "ratings": "4.3",
+    "developer": "Garena"
+  },
+  {
+    "id": "5",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.ibb.co.com/mrGPRqHw/game-img5.jpg",
+    "category": "Adventure",
+    "downloadLink": "https://genshin.hoyoverse.com/",
+    "description": "Genshin Impact is an open-world action RPG featuring stunning visuals, elemental magic, and a vast world to explore.",
+    "ratings": "4.8",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "6",
+    "title": "Valorant",
+    "coverPhoto": "https://i.ibb.co.com/1JPR6J6h/game-img6.png",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "A 5v5 tactical shooter combining precise gunplay and unique agent abilities for strategic combat.",
+    "ratings": "4.9",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "7",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/TqW0Ppp5/game-img7.jpg",
+    "category": "Party",
+    "downloadLink": "https://innersloth.com/gameAmongUs.php",
+    "description": "A multiplayer social deduction game where crewmates work together while impostors try to sabotage them.",
+    "ratings": "4.2",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "8",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/qLVZkHhG/game-img8.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/",
+    "description": "Build, mine, and explore infinite worlds with creativity and adventure in the legendary sandbox game Minecraft.",
+    "ratings": "4.9",
+    "developer": "Mojang"
+  },
+  {
+    "id": "9",
+    "title": "Asphalt 9: Legends",
+    "coverPhoto": "https://i.ibb.co.com/ycjXDnR7/game-img9.jpg",
+    "category": "Racing",
+    "downloadLink": "https://www.gameloft.com/game/asphalt-9-legends",
+    "description": "Race across dynamic real-world locations with powerful cars and cinematic visuals in Asphalt 9.",
+    "ratings": "4.4",
+    "developer": "Gameloft"
+  },
+  {
+    "id": "10",
+    "title": "League of Legends: Wild Rift",
+    "coverPhoto": "https://i.ibb.co.com/nM2bLmXx/game-img10.png",
+    "category": "MOBA",
+    "downloadLink": "https://wildrift.leagueoflegends.com/",
+    "description": "Wild Rift brings the fast-paced MOBA experience of League of Legends to mobile and console platforms.",
+    "ratings": "4.7",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "11",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://i.ibb.co.com/QjxT5cdy/game-img11.jpg",
+    "category": "Arcade",
+    "downloadLink": "https://sybogames.com/games/subway-surfers/",
+    "description": "Dash as fast as you can and dodge the trains in this endless running adventure filled with colorful visuals.",
+    "ratings": "4.5",
+    "developer": "SYBO Games"
+  },
+  {
+    "id": "12",
+    "title": "Candy Crush Saga",
+    "coverPhoto": "https://i.ibb.co.com/kstnS9cK/game-img12.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://king.com/game/candycrush",
+    "description": "Switch and match colorful candies to progress through thousands of fun levels in this addictive puzzle game.",
+    "ratings": "4.6",
+    "developer": "King"
+  }
+]
