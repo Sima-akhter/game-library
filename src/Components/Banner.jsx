@@ -5,14 +5,11 @@ import game3 from '../assets/game3.png'
 import game4 from '../assets/game4.png'
 import { useState } from "react"
 
-
-
-
 const Banner = () => {
 
     const [current, setCurrent] = useState(1)
 
-    const images = [game1, game2, game3, game4];
+    const images = [game2, game1, game3, game4];
 
     const fadeZoom = {
         hidden: { opacity: 0, scale: 0.95 },
@@ -29,8 +26,6 @@ const Banner = () => {
 
     return (
         <div>
-
-
 
             <div className="carousel w-full h-[400px]">
                 <div id="slide1" className="carousel-item relative w-full">
